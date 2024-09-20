@@ -16,3 +16,5 @@ What the code does:
 4) correlation tests are done between various genes and conditions
 5) correlations are represented using scatterplots
 6) further DE analysis is done.
+
+note - unfortunately the input data for this analysis is unpublished, and hence cannot be shared.
