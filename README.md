@@ -4,10 +4,10 @@ this contains the code written for the MSc Bioinformatics course - Statistics an
 Can Septic Arthritis and Gout be differentiated based on their transcriptional profiles in blood?
 
 Input Required for code (provided in 'inputs' folder:
-Expression Table with sample names as column names and gene IDs as row names
-Sample Metadata
-Annotations table
-Differential Tables between two conditions (generated for one comparison, 2 were given)
+1) Expression Table with sample names as column names and gene IDs as row names
+2) Sample Metadata
+3) Annotations table
+4) Differential Tables between two conditions (generated for one comparison, 2 were given)
 
 What the code does:
 1) relevant histograms are created
